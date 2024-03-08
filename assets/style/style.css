@@ -16,8 +16,6 @@
 body {
   background-color: var(--background-dark);
   font-family: "Open Sans", sans-serif,'Arial','Helvetica';
-  display: flex;
-  justify-content: center;
 }
 
 
